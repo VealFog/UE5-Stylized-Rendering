@@ -1,3 +1,3 @@
 # UE5-Stylized-Rendering
-将PencilDraw和SketchDraw这两个actor直接拖入即可使用
-如果Sketch的效果不好请手动修改蓝图文件中的后处理组件中的exposure bias值
+Some Materails for the stylized rendering in UE5
+请直接将PPDraw拖入以使用
